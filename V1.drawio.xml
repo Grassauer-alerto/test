@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2024-03-07T08:14:44.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="duz_GSTLUm_-p1iqKxg-" version="23.1.5" type="device" pages="5">
+  <diagram name="Seite-1" id="RaoWibNoskm-4J7f15ID">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <object label="Hintergrund" id="Hintergrund">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN602" id="VLAN602">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN601" id="VLAN601">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN300" id="VLAN300">
+          <mxCell parent="0" />
+        </object>
+        <object label="&#xa;VLAN250" id="VLAN250">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN103" id="VLAN103">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN102" id="VLAN102">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN101" id="VLAN101">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN100" id="VLAN100">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN90" id="VLAN90">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN70" id="VLAN70">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN61" id="VLAN61">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN60" id="VLAN60">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN50" id="VLAN50">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN40" id="VLAN40">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN30" id="VLAN30">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN20" id="VLAN20">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN10" id="VLAN10">
+          <mxCell parent="0" />
+        </object>
+        <object label="MGMT-LAN" id="MGMT-LAN">
+          <mxCell parent="0" />
+        </object>
+        <object label="Network-Devices" id="Network-Devices">
+          <mxCell parent="0" />
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZUmHRFv80xMA1X426AGY" name="Seite-2">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <object label="Hintergrund" id="Hintergrund">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN602" id="VLAN602">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN601" id="VLAN601">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN300" id="VLAN300">
+          <mxCell parent="0" />
+        </object>
+        <object label="&#xa;VLAN250" id="VLAN250">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN103" id="VLAN103">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN102" id="VLAN102">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN101" id="VLAN101">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN100" id="VLAN100">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN90" id="VLAN90">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN70" id="VLAN70">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN61" id="VLAN61">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN60" id="VLAN60">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN50" id="VLAN50">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN40" id="VLAN40">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN30" id="VLAN30">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN20" id="VLAN20">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN10" id="VLAN10">
+          <mxCell parent="0" />
+        </object>
+        <object label="MGMT-LAN" id="MGMT-LAN">
+          <mxCell parent="0" />
+        </object>
+        <object label="Network-Devices" id="Network-Devices">
+          <mxCell parent="0" visible="0" />
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R7at4OIOl6OK-Tk5EH7N" name="Seite-3">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <object label="Hintergrund" id="Hintergrund">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN602" id="VLAN602">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN601" id="VLAN601">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN300" id="VLAN300">
+          <mxCell parent="0" />
+        </object>
+        <object label="&#xa;VLAN250" id="VLAN250">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN103" id="VLAN103">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN102" id="VLAN102">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN101" id="VLAN101">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN100" id="VLAN100">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN90" id="VLAN90">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN70" id="VLAN70">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN61" id="VLAN61">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN60" id="VLAN60">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN50" id="VLAN50">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN40" id="VLAN40">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN30" id="VLAN30">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN20" id="VLAN20">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN10" id="VLAN10">
+          <mxCell parent="0" />
+        </object>
+        <object label="MGMT-LAN" id="MGMT-LAN">
+          <mxCell parent="0" />
+        </object>
+        <object label="Network-Devices" id="Network-Devices">
+          <mxCell style="" parent="0" />
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KXCOEsg9YhHtkNSXMnZp" name="Seite-4">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <object label="Hintergrund" id="Hintergrund">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN602" id="VLAN602">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN601" id="VLAN601">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN300" id="VLAN300">
+          <mxCell parent="0" />
+        </object>
+        <object label="&#xa;VLAN250" id="VLAN250">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN103" id="VLAN103">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN102" id="VLAN102">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN101" id="VLAN101">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN100" id="VLAN100">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN90" id="VLAN90">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN70" id="VLAN70">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN61" id="VLAN61">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN60" id="VLAN60">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN50" id="VLAN50">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN40" id="VLAN40">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN30" id="VLAN30">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN20" id="VLAN20">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN10" id="VLAN10">
+          <mxCell parent="0" />
+        </object>
+        <object label="MGMT-LAN" id="MGMT-LAN">
+          <mxCell parent="0" />
+        </object>
+        <object label="Network-Devices" id="Network-Devices">
+          <mxCell parent="0" />
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="APWZ9yLhQU18LSvA2Sb6" name="Seite-5">
+    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" font="calibri" id="0">
+          <mxCell />
+        </object>
+        <object label="Hintergrund" id="Hintergrund">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN602" id="VLAN602">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN601" id="VLAN601">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN300" id="VLAN300">
+          <mxCell parent="0" />
+        </object>
+        <object label="&#xa;VLAN250" id="VLAN250">
+          <mxCell style="" parent="0" />
+        </object>
+        <object label="VLAN103" id="VLAN103">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN102" id="VLAN102">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN101" id="VLAN101">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN100" id="VLAN100">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN90" id="VLAN90">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN70" id="VLAN70">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN61" id="VLAN61">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN60" id="VLAN60">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN50" id="VLAN50">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN40" id="VLAN40">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN30" id="VLAN30">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN20" id="VLAN20">
+          <mxCell parent="0" />
+        </object>
+        <object label="VLAN10" id="VLAN10">
+          <mxCell parent="0" />
+        </object>
+        <object label="MGMT-LAN" id="MGMT-LAN">
+          <mxCell parent="0" />
+        </object>
+        <object label="Network-Devices" id="Network-Devices">
+          <mxCell parent="0" />
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
